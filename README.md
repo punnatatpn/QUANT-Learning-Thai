@@ -11,6 +11,17 @@
 3. อ่าน [พื้นฐาน Python และแนวคิดสำคัญ](docs/03-python-and-finance-basics.md)
 4. ฝึกตอบ [แนวข้อสอบปากเปล่าและ Live Coding](docs/04-oral-exam-practice.md)
 
+## โค้ดฉบับอธิบายภาษาไทย (อ่านควบคู่กับต้นฉบับ)
+
+ไฟล์ในโฟลเดอร์ [annotated_code](annotated_code/) เป็นสำเนาเพื่อการศึกษา โดยเพิ่มคอมเมนต์ภาษาไทยก่อนบรรทัดคำสั่งและอธิบายจุดสำคัญของการทำงาน โดยไม่แก้ไขไฟล์ต้นฉบับของทีม
+
+- [main_thai.py](annotated_code/main_thai.py)
+- [data_analysis_thai.py](annotated_code/data_analysis_thai.py)
+- [simulation_thai.py](annotated_code/simulation_thai.py)
+- [risk_report_thai.py](annotated_code/risk_report_thai.py)
+
+> หมายเหตุ: ไฟล์เหล่านี้ทำไว้เพื่ออ่านและเรียนรู้เป็นหลัก หากต้องการรันโปรแกรมจริง ให้ใช้ไฟล์ต้นฉบับในโฟลเดอร์ด้านล่าง เพราะไฟล์ฉบับศึกษาอาจมีคำอธิบายแทรกอยู่ใน expression หลายบรรทัด และควรทดสอบก่อนนำไปใช้งาน
+
 ## โค้ดต้นฉบับที่อัปโหลด
 
 ไฟล์ต้นฉบับอยู่ในโฟลเดอร์ [Stock-Investment-Risk-Simulator-PE104-main-2](Stock-Investment-Risk-Simulator-PE104-main-2/)
