@@ -9,7 +9,8 @@
 1. อ่าน [ภาพรวมระบบและเส้นทางข้อมูล](docs/01-system-overview.md)
 2. อ่าน [คู่มือทำความเข้าใจไฟล์ทั้ง 4](docs/02-file-by-file.md)
 3. อ่าน [พื้นฐาน Python และแนวคิดสำคัญ](docs/03-python-and-finance-basics.md)
-4. ฝึกตอบ [แนวข้อสอบปากเปล่าและ Live Coding](docs/04-oral-exam-practice.md)
+4. เปิด [แผนที่ตำแหน่งโค้ดและฟังก์ชัน](docs/05-code-location-map.md) เพื่อดูว่าโค้ดแต่ละส่วนอยู่ไฟล์ไหนและบรรทัดใด
+5. ฝึกตอบ [แนวข้อสอบปากเปล่าและ Live Coding](docs/04-oral-exam-practice.md)
 
 ## โค้ดฉบับอธิบายภาษาไทย (อ่านควบคู่กับต้นฉบับ)
 
